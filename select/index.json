@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Shiny Smily Story (2022 ver.)",
+  "base_artist": "hololive IDOL PROJECT",
+  "createdAt": "2025-12-18T07:33:44.641157Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shiny Smily Story",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/01_Shiny_Smily_Story_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shiny Smily Story - Bouquet ver.",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/02_Shiny_Smily_Story_-_Bouquet_ver._hololive_IDOL_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shiny Smily Story - 2022 ver.",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/03_Shiny_Smily_Story_-_2022_ver._hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shiny Smily Story (Instrumental)",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/04_Shiny_Smily_Story_(Instrumental)_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shiny Smily Story (2022 ver.)",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/05_Shiny_Smily_Story_(2022_ver.)_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shiny Smily Story (ヤマトファンタジアver.)",
+      "artist": "白上フブキ",
+      "has_synced": true,
+      "path": "select/06_Shiny_Smily_Story_(ヤマトファンタジアver.)_白上フブキ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shiny Smily Story",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/07_Shiny_Smily_Story_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shiny Smily Story (ヤマトファンタジアver.)",
+      "artist": "白上フブキ, さくらみこ, 百鬼あやめ & 大神ミオ",
+      "has_synced": true,
+      "path": "select/08_Shiny_Smily_Story_(ヤマトファンタジアver.)_白上フブキ,_さくらみこ,_百鬼あやめ_&_大神ミオ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shiny Smily Story",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/pl_01_Shiny_Smily_Story_hololive_IDOL_PROJECT.txt"
+    }
+  ]
+}
